@@ -8,7 +8,7 @@ The build needed to incorpoarte responsive units such as em & rem, creating resp
 
 ### Screenshots
 
-![Responsive layout screen shot](https://courses.kevinpowell.co/conquering-responsive-layouts/img/resp-layout-mockup.jpg)
+![Responsive layout screen shot](https://jennifer-carey.github.io/Final-Challenge/img/resp-layout-mockup.jpg)
 
 ### Built With
 
